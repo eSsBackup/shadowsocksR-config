@@ -1,6 +1,6 @@
 ## Shadowsocks Config Script
 
-- ##Installation
+- ## Installation
 
   - scp
     ```bash 
@@ -13,7 +13,7 @@
     ```
 
 
-- ##Key files
+- ## Key files
 
   - SS日志文件
     - /var/log/shadowsocks.log
@@ -21,7 +21,7 @@
   - Shadowsocks.json 配置文件
     - /etc/shadowsocks.json
 
-- ##Commands
+- ## Commands
 
   - 判断BBR模块是否工作
     ```bash
